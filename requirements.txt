@@ -4,8 +4,4 @@ numpy
 matplotlib
 scipy
 Pillow
-openpyxl  # Required for Pandas to write Excel files
-io
-base64
-
-
+openpyxl
