@@ -6,3 +6,4 @@ scipy
 Pillow
 openpyxl
 seaborn
+statsmodels
